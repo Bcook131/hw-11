@@ -1,0 +1,22 @@
+{
+  "name": "hw-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bcook131/hw-11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bcook131/hw-11/issues"
+  },
+  "homepage": "https://github.com/Bcook131/hw-11#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
